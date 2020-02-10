@@ -4,7 +4,7 @@ description: ""
 category: Tools
 excerpt_separator: <!--more-->
 tags: Shell,Wheel
-
+key: bash_01
 ---
 
 以下是平时工作及学习中积累的常用Shell脚本，放置在此以避免重复开发。
