@@ -1,18 +1,11 @@
 ---
-layout: post
 title: "Bash —— 1  —— Shell Utilities for Daily Work"
 description: ""
 category: Tools
 excerpt_separator: <!--more-->
 tags: Shell,Wheel
-aside:
-  toc: true
----
 
-<hr>
-* TOC
-{:toc}
-<hr>
+---
 
 以下是平时工作及学习中积累的常用Shell脚本，放置在此以避免重复开发。
 <!--more-->
