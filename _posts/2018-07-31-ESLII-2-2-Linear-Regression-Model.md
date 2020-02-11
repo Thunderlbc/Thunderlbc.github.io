@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "ESL II —— 2(2) —— Linear Regression Model"
 description: "整理线性回归模型细节"
 category: [ESL,featured]
@@ -7,6 +6,8 @@ comments: true
 mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,Linear Regression]
+sidebar:
+  nav: eslii
 key: ESLII_02_2
 ---
 

@@ -9,11 +9,6 @@ tags: [Statistical Learning,Theories,Linear Classification]
 key: ESLII_03
 ---
 
-<hr>
-* TOC
-{:toc}
-<hr>
-
 ## 1.Linear Decision Boundaries
 
 >**Intuition**

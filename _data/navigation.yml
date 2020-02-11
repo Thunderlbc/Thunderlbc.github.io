@@ -61,3 +61,21 @@ docs-en:
         url:    /docs/en/configuration
       - title:  Navigation
         url:    /docs/en/navigation
+eslii:
+  - title: EPE
+    url: /esl/featured/2018/07/24/ESLII-1-EPE.html
+  - title: Linear Regression Model
+    children:
+      - title: One
+        url: /esl/featured/2018/07/30/ESLII-2-1-Linear-Regression-Model.html
+      - title: Two
+        url: /esl/featured/2018/07/31/ESLII-2-2-Linear-Regression-Model.html
+  - title: Linear Classification Model
+    url: /esl/featured/2018/08/03/ESLII-3-Linear-Classification-Model.html
+  - title: KMeans & KNN
+    children:
+      - title: Defination of Kmeans & KNN
+        url: /esl/featured/2018/08/04/ESLII-4-KMeans-KNN.html
+      - title: Effective Number of KNN
+        url: /esl/featured/2018/08/05/ESLII-5-Effective-Number-KNN.html
+
