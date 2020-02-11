@@ -9,8 +9,6 @@ tags: [Statistical Learning,Theories,AUC,MachineLearning]
 key: ML_01
 ---
 
-## Why AUC metric so Important?
-
 > 之前训练CTR排序模型时，一直使用AUC作为指标。但是对它只有一个感性的认识（衡量排序结果好坏，倾向于把正样本排到负样本之前）；
 > 现在将AUC的定义、原理以及物理意义整理如下，并总结常用计算方法；
 
