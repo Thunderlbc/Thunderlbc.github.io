@@ -27,8 +27,8 @@ key: page-about
 ---
 
 Hi, I'm Bingchen Li, working at Machine Learning Info Tech. Co. Ltd as Algorithm
-Engineer. I focus on RecSys recently.
+Engineer. Focusing on RecSys recently.
 
-```javascript
-(() => console.log('Hello, World!'))();
+```python
+print ("Hello World!")
 ```
