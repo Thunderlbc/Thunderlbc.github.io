@@ -48,23 +48,11 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
-docs-en:
-  - title:      Start
-    children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-  - title:      Customization
-    children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+# Navi for Elements of Statistical Learning
 eslii:
   - title: Expected Prediction Error
     children:
-      - title: Defination of EPE
+      - title: Definition of EPE
         url: /esl/featured/2018/07/24/ESLII-1-EPE.html
 
   - title: Linear Regression Model
@@ -76,12 +64,12 @@ eslii:
 
   - title: Linear Classification Model
     children:
-      - title: Defination
+      - title: Definition
         url: /esl/featured/2018/08/03/ESLII-3-Linear-Classification-Model.html
 
   - title: KMeans & KNN
     children:
-      - title: Defination of Kmeans & KNN
+      - title: Definition of Kmeans & KNN
         url: /esl/featured/2018/08/04/ESLII-4-KMeans-KNN.html
       - title: Effective Number of KNN
         url: /esl/featured/2018/08/05/ESLII-5-Effective-Number-KNN.html
