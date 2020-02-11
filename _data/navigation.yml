@@ -48,6 +48,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /about.html
+
 # Navi for Elements of Statistical Learning
 eslii:
   - title: Expected Prediction Error
