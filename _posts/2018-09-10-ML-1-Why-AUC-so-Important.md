@@ -151,7 +151,7 @@ neg = [0. for i in range(partitions+1)]
 
 
 label = np.concatenate([np.ones(partitions+1), np.zeros(partitions+1)])
-preds = np.concatenate([np.arange(partitions+1)*1.0/(partitions+1),                 np.arange(partitions+1)*1.0/(partitions+1)])
+preds = np.concatenate([np.arange(partitions+1)*1.0/(partitions+1), np.arange(partitions+1)*1.0/(partitions+1)])
 weights = np.concatenate([pos, neg])
 auc = metrics.roc_auc_score(label, preds, sample_weight=weights)
 ```
