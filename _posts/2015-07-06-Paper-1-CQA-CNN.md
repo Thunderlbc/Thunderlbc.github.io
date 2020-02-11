@@ -5,7 +5,7 @@ category: [Paper,CQA,CNN,QA,SL]
 key: paper_01
 comments: true
 mathjax: true
-tags: CNN,CQA,Sequence Labeling
+tags: [CNN,CQA,Sequence Labeling]
 ---
 > 文章主要是SemEval 2015测评中,答案选择挑战问题中的参赛论文. 基于14年Hu et.al.在NIPS上的一篇文章, 提出了在CNN提取问题q与评论c的交互信息的基础上, 使用RNN来对不同评论之间的的语义关联进行建模, 以及标出Good类的评论, 取得了不错的效果.
 

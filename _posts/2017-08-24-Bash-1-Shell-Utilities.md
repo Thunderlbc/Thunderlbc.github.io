@@ -3,7 +3,7 @@ title: "Bash —— 1  —— Shell Utilities for Daily Work"
 description: ""
 category: Tools
 excerpt_separator: <!--more-->
-tags: Shell,Wheel
+tags: [Shell,Wheel]
 key: bash_01
 ---
 
