@@ -7,6 +7,9 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,Linear Regression]
 key: ESLII_02_1
+sidebar:
+  nav: eslii
+
 ---
 
 

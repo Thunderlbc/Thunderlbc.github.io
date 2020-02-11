@@ -7,6 +7,8 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,KNN]
 key: ESLII_05
+sidebar:
+  nav: eslii
 ---
 
 > ESL II中有提到关于 "Effective Number of $$k$$-Nearest-Neighbors is $$\frac{N}{k}$$, N is Number of Samples"，原文中一笔带过，可能高估了我的统计基础= =！，整理如下：

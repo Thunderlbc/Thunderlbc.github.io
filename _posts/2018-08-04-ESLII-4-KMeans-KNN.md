@@ -7,6 +7,9 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,KNN,K-Means]
 key: ESLII_04
+sidebar:
+  nav: eslii
+
 ---
 
 ## 0. Introduction

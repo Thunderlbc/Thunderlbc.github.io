@@ -7,6 +7,9 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,Linear Classification]
 key: ESLII_03
+sidebar:
+  nav: eslii
+
 ---
 
 ## 1.Linear Decision Boundaries
