@@ -118,11 +118,6 @@ $$
 
 解决Lasso问模型的方法更多的，是偏向工程方面，使用各种快速近似方法得到结果。
 
-关于Lasso和岭回归效果的区别，有如下图可表示：
-
-![Lasso_Ridge_Difference](http://7u2ldb.com1.z0.glb.clouddn.com/Lasso_Ridge_diff.jpg "Width:40px;float:right")
-
-![Contour](http://7u2ldb.com1.z0.glb.clouddn.com/Contours_of_Beta.jpg)
 
 ***
 
