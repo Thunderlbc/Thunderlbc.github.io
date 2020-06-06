@@ -11,7 +11,7 @@ sidebar:
   nav: ml
 ---
 
-本文接上文（[最优化方法整理（一）——Batch场景下SGD类优化方法](http://libingchen.me/2018/12/03/Algorithms-1-Convex-Optimizers-01.html)），继续整理下在Online场景下，LR算法优化方法，为了获得更大的模型（参数）稀疏性，各个算法所做的一些努力。
+本文接上文（[最优化方法整理（一）——Batch场景下SGD类优化方法](http://libingchen.me/ml/2018/12/03/Algorithms-1-Convex-Optimizers-01.html)），继续整理下在Online场景下，LR算法优化方法，为了获得更大的模型（参数）稀疏性，各个算法所做的一些努力。
 
 <!--more-->
 

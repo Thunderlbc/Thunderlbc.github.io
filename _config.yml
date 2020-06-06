@@ -127,8 +127,8 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 4d75ced6e73671bd2973 # GitHub Application Client ID
-    clientSecret: d38eb0ad2a43baf42cdef8cfdc1663a6295d6750 # GitHub Application Client Secret
+    clientID    : 638de10859acadc7a0ba # GitHub Application Client ID
+    clientSecret: 32c1463ff848e553259a38535ea35810ba592ca4 # GitHub Application Client Secret
     repository  : Thunderlbc.github.io # GitHub repo
     owner       : Thunderlbc # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
