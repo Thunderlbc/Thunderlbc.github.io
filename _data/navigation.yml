@@ -73,3 +73,14 @@ eslii:
     children:
       - title: Definition of Expected Prediction Error
         url: /esl/featured/2018/07/24/ESLII-1-EPE.html
+
+# Navi for Machine Learning Basis
+ml:
+  - title: Measurements
+    children:
+      - title: AUC
+        url: /elements/2018/09/10/ML-1-Why-AUC-so-Important.html
+  - title: 最优化算法
+    children:
+      - title: Batch场景下SGD类算法
+        url: /2018/12/03/Algorithms-1-Convex-Optimizers-01.html

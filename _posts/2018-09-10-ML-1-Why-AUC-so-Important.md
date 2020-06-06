@@ -7,6 +7,8 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,AUC,MachineLearning]
 key: ML_01
+sidebar:
+  nav: ml
 ---
 
 > 之前训练CTR排序模型时，一直使用AUC作为指标。但是对它只有一个感性的认识（衡量排序结果好坏，倾向于把正样本排到负样本之前）；
