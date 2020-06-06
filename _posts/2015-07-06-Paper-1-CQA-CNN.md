@@ -1,7 +1,7 @@
 ---
 title: "Paper —— 1 —— A Deep Learning based Comment Sequence Labeling System for Answer Selection Challenge X. Zhou’15 SemEval 2015"
 description: "论文整理"
-category: [Paper,CQA,CNN,QA,SL]
+category: [Paper]
 key: paper_01
 comments: true
 mathjax: true

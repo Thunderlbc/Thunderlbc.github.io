@@ -1,7 +1,7 @@
 ---
 title: "ESL II —— 2(2) —— Linear Regression Model"
 description: "整理线性回归模型细节"
-category: [ESL,featured]
+category: [ESL]
 comments: true
 mathjax: true
 excerpt_separator: <!--more-->

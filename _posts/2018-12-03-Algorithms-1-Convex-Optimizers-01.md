@@ -4,6 +4,7 @@ description: "整理一下Batch/Online场景下，各种常用优化算法知识
 comments: true
 mathjax: true
 excerpt_separator: <!--more-->
+category: [ML]
 tags: [Statistical Learning,Theories,MachineLearning,Convex,Optimizer]
 key: ALGO_01_ConvOpt_01
 sidebar:

@@ -1,7 +1,7 @@
 ---
 title: "ESL II —— 3 —— Linear Classification Model"
 description: "整理线性分类模型细节"
-category: [ESL,featured]
+category: [ESL]
 comments: true
 mathjax: true
 excerpt_separator: <!--more-->

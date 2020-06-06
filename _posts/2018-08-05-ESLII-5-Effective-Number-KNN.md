@@ -1,7 +1,7 @@
 ---
 title: "ESL II —— 5 —— KNN算法的Effective Number/Degree of Freedom"
 description: "整理KNN的一个小细节"
-category: [ESL,featured]
+category: [ESL]
 comments: true
 mathjax: true
 excerpt_separator: <!--more-->

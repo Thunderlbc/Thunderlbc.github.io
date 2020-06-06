@@ -54,33 +54,35 @@ eslii:
   - title: Linear Regression Model
     children:
       - title: One
-        url: /esl/featured/2018/07/30/ESLII-2-1-Linear-Regression-Model.html
+        url: /esl/2018/07/30/ESLII-2-1-Linear-Regression-Model.html
       - title: Two
-        url: /esl/featured/2018/07/31/ESLII-2-2-Linear-Regression-Model.html
+        url: /esl/2018/07/31/ESLII-2-2-Linear-Regression-Model.html
 
   - title: Linear Classification Model
     children:
       - title: Definition
-        url: /esl/featured/2018/08/03/ESLII-3-Linear-Classification-Model.html
+        url: /esl/2018/08/03/ESLII-3-Linear-Classification-Model.html
 
   - title: KMeans & KNN
     children:
       - title: Definition of Kmeans & KNN
-        url: /esl/featured/2018/08/04/ESLII-4-KMeans-KNN.html
+        url: /esl/2018/08/04/ESLII-4-KMeans-KNN.html
       - title: Effective Number of KNN
-        url: /esl/featured/2018/08/05/ESLII-5-Effective-Number-KNN.html
+        url: /esl/2018/08/05/ESLII-5-Effective-Number-KNN.html
   - title: Miscellaneous
     children:
       - title: Definition of Expected Prediction Error
-        url: /esl/featured/2018/07/24/ESLII-1-EPE.html
+        url: /esl/2018/07/24/ESLII-1-EPE.html
 
 # Navi for Machine Learning Basis
 ml:
   - title: Measurements
     children:
       - title: AUC
-        url: /elements/2018/09/10/ML-1-Why-AUC-so-Important.html
+        url: /ml/2018/09/10/ML-1-Why-AUC-so-Important.html
   - title: 最优化算法
     children:
       - title: Batch场景下SGD类算法
-        url: /2018/12/03/Algorithms-1-Convex-Optimizers-01.html
+        url: /ml/2018/12/03/Algorithms-1-Convex-Optimizers-01.html
+      - title: Online场景下LR的稀疏性优化算法
+        url: /ml/2018/12/03/Algorithms-1-Convex-Optimizers-02.html

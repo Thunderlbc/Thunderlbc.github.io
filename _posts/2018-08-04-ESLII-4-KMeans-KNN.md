@@ -1,7 +1,7 @@
 ---
 title: "ESL II —— 4 —— K-Means 及 K-Nearest-Neighbors算法小结"
 description: "整理两种分类模型细节"
-category: [ESL,featured]
+category: [ESL]
 comments: true
 mathjax: true
 excerpt_separator: <!--more-->
