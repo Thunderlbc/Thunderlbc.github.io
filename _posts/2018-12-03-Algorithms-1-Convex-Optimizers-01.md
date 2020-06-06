@@ -6,6 +6,8 @@ mathjax: true
 excerpt_separator: <!--more-->
 tags: [Statistical Learning,Theories,MachineLearning,Convex,Optimizer]
 key: ALGO_01_ConvOpt_01
+sidebar:
+  nav: ml
 ---
 
 > 本文主要整理下Batch、Online场景下，各种常用的最优化算法。内容上大部分是参考其他博客，并无太多原创成分，目的是梳理知识点，加深理解。
