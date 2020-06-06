@@ -85,4 +85,4 @@ ml:
       - title: Batch场景下SGD类算法
         url: /ml/2018/12/03/Algorithms-1-Convex-Optimizers-01.html
       - title: Online场景下LR的稀疏性优化算法
-        url: /ml/2018/12/03/Algorithms-1-Convex-Optimizers-02.html
+        url: /ml/2018/12/07/Algorithms-1-Convex-Optimizers-02.html
