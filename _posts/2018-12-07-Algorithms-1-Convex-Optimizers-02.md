@@ -13,7 +13,7 @@ sidebar:
 
 本文接上文（[最优化方法整理（一）——Batch场景下SGD类优化方法](http://libingchen.me/ml/2018/12/03/Algorithms-1-Convex-Optimizers-01.html)），继续整理下在Online场景下，LR算法优化方法，为了获得更大的模型（参数）稀疏性，各个算法所做的一些努力。
 
-主要参考文档是冯杨的![在线最优化求解](http://dongzebo.com/2019/07/19/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3-Online-Optimization-%E5%86%AF%E6%89%AC/) 【没找到最原始文档链接】
+主要参考文档是冯杨的[在线最优化求解](http://dongzebo.com/2019/07/19/%E5%9C%A8%E7%BA%BF%E6%9C%80%E4%BC%98%E5%8C%96%E6%B1%82%E8%A7%A3-Online-Optimization-%E5%86%AF%E6%89%AC/) 【没找到最原始文档链接】
 
 <!--more-->
 
